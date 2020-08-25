@@ -3,8 +3,8 @@
 ![logo](https://raw.githubusercontent.com/tg-bomze/BabyGAN/master/media/logo.png)
 
 **Check how it works online:**
-- Russian Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)]()
-- English Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)]()
+- Russian Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tg-bomze/BabyGAN/blob/master/BabyGAN_(RUS).ipynb)
+- English Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tg-bomze/BabyGAN/blob/master/BabyGAN_(ENG).ipynb)
 
 <p>
 StyleGAN-based predictor of children's faces from photographs of theoretical parents. The latent representation is extracted from the input images, after which the algorithm mixes them in certain proportions. The neural network model is based on the GAN architecture. Using latency direction, you can change various parameters: age, face position, emotions and gender.
